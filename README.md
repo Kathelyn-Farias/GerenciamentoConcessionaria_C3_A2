@@ -12,7 +12,6 @@ Este guia descreve **todos os comandos necessários** para executar o projeto na
 Repositório do projeto C3:  
 `https://github.com/Kathelyn-Farias/GerenciamentoConcessionaria_C3_A2.git`
 
----
 ````
 ## 1. Atualizar a máquina virtual
 
