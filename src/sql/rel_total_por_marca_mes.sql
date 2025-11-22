@@ -1,0 +1,1 @@
+SELECT * FROM vw_vendas_por_marca_mes;

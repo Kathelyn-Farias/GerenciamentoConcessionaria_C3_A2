@@ -1,0 +1,29 @@
+erDiagram
+    CLIENTE ||--o{ VENDA : "realiza"
+    VEICULO o|--|| VENDA : "é_vendido_em"
+
+CLIENTE{
+    ID_CLIENTE  int PK  "Not Null"
+    NOME    String  "Not Null"
+    CPF String     "Not Null"
+    TELEFONE    String "Not Null"
+    EMAIL   String  "Not Null"
+}
+
+VEICULO{
+    ID_VEICULO  int PK  "Not Null"
+    MARCA   String  "Not Null"
+    MODELO  String  "Not Null"
+    COR String  "Not Null"
+    ANO int "Not Null"
+    PRECO   int "Not Null"
+    DISPONIVEL  boolean "Not Null"
+}
+
+VENDA{
+    ID_VENDA  int "Not Null"
+    DATA_VENDA  date "Not Null"
+    VALOR_FINAL float   "Not Null"
+    ID_CLIENTE  int FK  "Not Null"
+    ID_VEICULO  int FK  "Not Null"
+}

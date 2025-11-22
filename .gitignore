@@ -1,0 +1,16 @@
+# build / IDE
+out/
+bin/
+target/
+.idea/
+*.iml
+.vscode/VSWorkspaceState.json
+.vscode/ProjectSettings.json
+slnx.sqlite
+
+# credenciais locais (NÃO subir)
+src/conexion/db.properties
+
+# OS
+.DS_Store
+Thumbs.db
