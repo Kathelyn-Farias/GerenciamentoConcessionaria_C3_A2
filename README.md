@@ -13,6 +13,9 @@ Este guia mostra **todos os comandos necessários** para rodar o projeto na máq
 Repositório do projeto C3:  
 `https://github.com/Kathelyn-Farias/GerenciamentoConcessionaria_C3_A2.git`
 
+Link do vídeo no Youtube:
+`https://youtu.be/-9vFe51cTQM`
+
 ````
 ## 1. Atualizar a máquina
 
