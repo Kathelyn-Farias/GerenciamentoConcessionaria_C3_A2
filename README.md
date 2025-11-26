@@ -14,7 +14,7 @@ Repositório do projeto C3:
 `https://github.com/Kathelyn-Farias/GerenciamentoConcessionaria_C3_A2.git`
 
 Link do vídeo no Youtube:
-`https://youtu.be/-9vFe51cTQM`
+https://youtu.be/-9vFe51cTQM
 
 ````
 ## 1. Atualizar a máquina
